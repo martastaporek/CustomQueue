@@ -1,1 +1,4 @@
 # CustomQueue
+FIFO 
+enqueue
+dequeue
